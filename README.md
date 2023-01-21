@@ -1,10 +1,11 @@
 ### Olá! Sou o Renan Battiston! 👋
-____________________________________________________________________________________________________________________
+
 <a href="https://www.linkedin.com/in/renan-battiston/"> ![image](https://user-images.githubusercontent.com/122320728/213889412-2b99216f-3ce9-46d9-b4dc-71e231fd2502.png)
 </a>
 
+
 ### Sobre mim 🤓 
-____________________________________________________________________________________________________________________
+
 Graduado em Ciência da Computação e Pós Graduado MBA em Datacenter e Cloud Computing pela Universidade Paulista - 
 UNIP Jundiaí. Iniciei minha carreira de TI na àrea de Suporte técnico, depois passei pela àrea de Infraestrutura e posteriormente migrei para Cloud Computing. Sempre trabalhei com soluções Microsoft, desde Office 365(atualmente Microsoft 365) e Azure. Atualmente atuo com Infraestrutura Cloud mais especificamente com a cloud Microsoft Azure. Possuo experiências de projetos de migração para cloud.
 
