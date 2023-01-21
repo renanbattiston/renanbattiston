@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Sou o Renan Battiston! 👋
+
+Sobre mim 😄 
+____________________________________________________________________________________________________________________
+Graduado em Ciência da Computação e Pós Graduado MBA em Datacenter e Cloud Computing pela Universidade Paulista - UNIP Jundiaí. Iniciei minha carreira de TI na àrea de Suporte técnico, depois passei pela àrea de Infraestrutura e posteriormente migrei para Cloud Computing. Sempre trabalhei com soluções Microsoft, desde Office 365(atualmente Microsoft 365) e Azure. Atualmente atuo com Infraestrutura Cloud mais especificamente com a cloud Microsoft Azure. Possuo experiências de projetos de migração para cloud.
+
+
 
 <!--
 **renanbattiston/renanbattiston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
