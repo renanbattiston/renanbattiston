@@ -10,7 +10,7 @@ Graduado em Ciência da Computação e Pós Graduado MBA em Datacenter e Cloud C
 UNIP Jundiaí. Iniciei minha carreira de TI na àrea de Suporte técnico, depois passei pela àrea de Infraestrutura e posteriormente migrei para Cloud Computing. Sempre trabalhei com soluções Microsoft, desde Office 365(atualmente Microsoft 365) e Azure. Atualmente atuo com Infraestrutura Cloud mais especificamente com a cloud Microsoft Azure. Possuo experiências de projetos de migração para cloud.
 
 
-## Minhas certificações 🏆
+## Certificações 🏆
 
 <a href="https://www.credly.com/earner/earned/badge/c12400cd-8b1a-4359-b55c-ac65f3f5996d"> ![image](https://user-images.githubusercontent.com/122320728/213888717-77e804fd-60a8-45dc-ad21-54cf98fad4e4.png) 
 </a>
