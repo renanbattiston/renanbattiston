@@ -13,7 +13,8 @@ UNIP Jundiaí. Iniciei minha carreira de TI na àrea de Suporte técnico, depois
 </a>
 <a href="https://www.credly.com/earner/earned/badge/40ff366e-cb2f-47e7-8242-4c5d34763a43"> ![image](https://user-images.githubusercontent.com/122320728/213888986-ccf337e9-df04-481e-b529-b267208153b7.png)
 </a>
-
+<a href="https://www.credly.com/earner/earned/badge/449953db-c0d5-43e4-8b39-d345348f40c2"> ![image](https://user-images.githubusercontent.com/122320728/213889133-b71aefb4-d9cb-4fe2-aa2f-5c485759cd43.png)
+</a>
 
 
 
